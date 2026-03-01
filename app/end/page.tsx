@@ -1,11 +1,10 @@
-"use client";
 import Template from "@/component/Template";
 
 export default function Page() {
   return (
     <Template
-      heading="Welcome to the Fun Activity!"
-      buttonLabel="Start Activity"
+      heading="Congratulations! You've Completed the Activity!"
+      buttonLabel="Restart Activity"
     />
   );
 }
