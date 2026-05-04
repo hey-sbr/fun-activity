@@ -21,6 +21,3 @@ function jumbleWord(word: string): string {
 
   return chars.join("");
 }
-
-
-console.log(gibrish("Hello World! This is a test of the gibrish function."))
